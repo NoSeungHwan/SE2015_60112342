@@ -4,13 +4,13 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 <bean id="professor" class="Professor">
 	<constructor-arg>
-		<value>최성운</value>
+		<value>노승환</value>
 	</constructor-arg>
 	
 </bean>
 <bean id="Lecture2" class="Lecture">
 	<constructor-arg>
-		<value>C언어</value>
+		<value>리버싱</value>
 	</constructor-arg>
 </bean>
 
